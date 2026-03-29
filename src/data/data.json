@@ -1,0 +1,99 @@
+{
+  "couple": {
+    "groom": {
+      "name": "Irfan Fadillah",
+      "childOf": "Putra dari Bapak Ashari & Ibu Sri Maryati",
+      "image": "/images/mempelai_pria.jpg"
+    },
+    "bride": {
+      "name": "Maesaroh",
+      "childOf": "Putri dari Bapak ... & Ibu ...",
+      "image": "/images/mempelai_perempuan (2).jpg"
+    }
+  },
+  "guest": {
+    "name": "Kuwadi Kadun dan Pasangan"
+  },
+  "event": {
+    "date": "2027-12-20",
+    "akad": {
+      "date": "20 Desember 2027",
+      "time": "08:00 WIB",
+      "location": "Masjid Jami As'sa'adah",
+      "mapsUrl": "https://maps.app.goo.gl/GNXC1jpzvbQURrJA8"
+    },
+    "resepsi": {
+      "date": "20 Desember 2027",
+      "time": "11:00 WIB",
+      "location": "Rumah Mempelai Wanita",
+      "mapsUrl": "https://maps.app.goo.gl/GNXC1jpzvbQURrJA8"
+    }
+  },
+  "quote": {
+    "title": "QS. Az-Zariyat: 49",
+    "text": "Dan segala sesuatu Kami ciptakan berpasang-pasangan agar kamu mengingat (Kebesaran Allah)"
+  },
+  "loveStory": [
+    {
+      "title": "First Meet",
+      "date": "2025",
+      "description": "Kami pertama kali bertemu melalui sebuah aplikasi online. Awalnya hanya sekadar saling sapa dan berbagi cerita ringan, hingga waktu membawa kami pada keputusan untuk bertemu secara langsung. Dari pertemuan pertama itulah muncul rasa nyaman yang perlahan berubah menjadi ketertarikan yang tulus."
+    },
+    {
+      "title": "Relationship",
+      "date": "2025",
+      "description": "Seiring berjalannya waktu, komunikasi kami semakin intens dan hubungan kami pun semakin dekat. Kami mulai saling mengenal lebih dalam, berbagi tawa, cerita, dan juga tantangan hidup. Dari situlah kami memutuskan untuk menjalin hubungan yang lebih serius dan saling berkomitmen."
+    },
+    {
+      "title": "Engagement",
+      "date": "2027",
+      "description": "Setelah melewati berbagai momen bersama, kami semakin yakin bahwa kami adalah pasangan yang saling melengkapi. Dengan restu keluarga, kami melangkah ke tahap yang lebih serius melalui acara lamaran, sebagai bentuk kesungguhan untuk melanjutkan hubungan ini ke jenjang pernikahan."
+    },
+    {
+      "title": "Marriage",
+      "date": "2027",
+      "description": "Tahun ini menjadi awal perjalanan baru bagi kami. Dengan penuh rasa syukur dan kebahagiaan, kami memutuskan untuk mengikat janji suci dalam pernikahan. Semoga langkah ini menjadi awal dari kehidupan yang penuh cinta, keberkahan, dan kebahagiaan yang abadi."
+    }
+  ],
+  "gallery": [
+    {
+      "image": "public/images/prewed-1.jpg"
+    },
+    {
+      "image": "public/images/prewed-2.jpg"
+    },
+    {
+      "image": "public/images/prewed-3.jpg"
+    },
+    {
+      "image": "public/images/prewed-4.jpg"
+    },
+    {
+      "image": "public/images/prewed-5.jpg"
+    },
+    {
+      "image": "public/images/prewed-6.jpg"
+    },
+    {
+      "image": "public/images/prewed-7.jpg"
+    },
+    {
+      "image": "public/images/prewed-8.jpg"
+    }
+  ],
+  "gift": [
+    {
+      "bankName": "BCA",
+      "accountNumber": "123456789",
+      "accountName": "Irfan Fadillah"
+    },
+    {
+      "bankName": "BRI",
+      "accountNumber": "0987654321",
+      "accountName": "Maesaroh"
+    }
+  ],
+  "music": {
+    "url": "https://www.youtube.com/watch?v=06-XXOTP3Gc"
+  }
+}
